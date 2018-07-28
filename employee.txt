@@ -1,0 +1,44 @@
+Name: Abhishek  Kumar
+Sex: Male
+Address: 35 kherigaun dehradun
+Pincode: 248001india
+Country: india
+Email: abhisaraff007@gmail.com
+Contact: 7060774321
+DateOfBirth: 29/02/2000
+Occupation: student
+Designation: student
+Basic Salary: 10000
+Name: Harshal  Mittal
+Sex: Male
+Address: 123 bidholi dehradun
+Pincode: 248001india
+Country: india
+Email: harsh@gmail.com
+Contact: 7060936035
+DateOfBirth: 31/07/1996
+Occupation: stu
+Designation: stu
+Basic Salary: 10000
+Name: Arpit  Mandal
+Sex: Male
+Address: 35 kherigaun dheradun
+Pincode: 248007india
+Country: india
+Email: arpit@gmail.com
+Contact: 9934236923
+DateOfBirth: 30/06/1996
+Occupation: student
+Designation: student
+Basic Salary: 1000
+Name: Ansuraj  PradhAN
+Sex: Male
+Address: 769 kehrigaon dehradun
+Pincode: 123456india
+Country: india
+Email: anshu@gmail.com
+Contact: 9437083870
+DateOfBirth: 29/02/2000
+Occupation: stu
+Designation: student
+Basic Salary: 1000
